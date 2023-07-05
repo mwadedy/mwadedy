@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwadedy
 - 👀 I’m interested in Marketing data analysis and data insights
-- 🌱 I’m currently learning python, R, SQL
+- 🌱 I’m currently learning Python, R, SQL
 - 💞️ I’m looking to collaborate on data insights
 - 📫 How to reach me : mohamadnor2001@gmail.com
 
